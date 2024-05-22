@@ -1,7 +1,6 @@
 # Atheletic Sales Analysis
 
-
-You'll use sales data to gain information of the cities in the U.S. have sold the most athletic gear over a period of two years (2020-2021). Then you'll determine which retailers had the greatest total sales for athletic wear and which retailers sold the most women's athletic footwear. Finally, you'll determine which day and week had the highest sales for women's athletic footwear.
+Use sales data to gain information of the cities in the U.S. have sold the most athletic gear over a period of two years (2020-2021). Then use the data decide the retailers that had the best total athletic gear sales and which retailers sold the most women's athletic footwear. Finally, determine what day and week sold the most women's athletic footwear.
 
 ## Assignment: 
 https://github.com/oigwe-frx/athletic_sales_analysis/blob/main/athletic_sales_analysis_starter_code.ipynb
